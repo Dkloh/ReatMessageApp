@@ -1,0 +1,17 @@
+/*.App {
+  margin: 0 0;
+  padding: 0 0;
+}*/
+
+a.nav-item {
+  color: #fff;
+  margin-left: 1rem;
+}
+
+.card .card-body .mb-3 {
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+}
