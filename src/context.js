@@ -30,26 +30,26 @@ export class Provider extends Component {
         name: "John Doe",
         message:
           "The biggest retail story was the news that Sainsbury and Asda were in merger talks.",
-        reply: "..."
+        reply: ""
       },
       {
         id: 2,
         name: "Peter Roe",
         message:
           "One analyst called it a game changer in the UK grocery market of epic proportions.",
-        reply: "..."
+        reply: ""
       },
       {
         id: 3,
         name: "Anna Yahoo",
         message: "It still needs regulatory approval.",
-        reply: "..."
+        reply: ""
       },
       {
         id: 4,
         name: "Pete Rock",
         message: "That is expected in late January.",
-        reply: "..."
+        reply: ""
       }
     ],
     dispatch: action => this.setState(state => reducer(state, action))

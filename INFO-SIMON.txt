@@ -3,7 +3,7 @@ Aplikace používá:
 info:
 -----------
 
-+ jména promìnných v objektu v context.js byly upraveny 06.01.2019 v 18:30
++ zobrazovaná vstupní data jsou v objektu v context.js
 
 
 + data jsou v context.js v objektu contacts
