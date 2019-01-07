@@ -5,6 +5,7 @@ Aplikace používá:
 +++Reducer na úpravu konverzace
 ------------------------------
 https://redux.js.org/basics/reducers
+https://rangle.github.io/react-training/redux-action-reducer/
 
 
 aplikaci jde rozbìhnout pokynem
