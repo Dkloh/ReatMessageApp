@@ -1,17 +1,10 @@
 Aplikace používá:
 
-info:
------------
-
-+ zobrazovaná vstupní data jsou v objektu v context.js
 
 
-+ data jsou v context.js v objektu contacts
-
-
-export class Provider extends Component {
-  state = {
-    contacts: 
++++Reducer na úpravu konverzace
+------------------------------
+https://redux.js.org/basics/reducers
 
 
 aplikaci jde rozbìhnout pokynem
