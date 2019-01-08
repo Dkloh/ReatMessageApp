@@ -35,9 +35,8 @@ class EditContact extends Component {
         reply: "",
         errors: {}
       });
-    }
-    else {
-      alert(`Error: contact with id="${this.routeParamId}" not found.`)
+    } else {
+      alert(`Error: contact with id="${this.routeParamId}" not found.`);
     }
   }
 
@@ -126,7 +125,7 @@ class EditContact extends Component {
                   />
                   <input
                     type="submit"
-                    value="Add Message---"
+                    value="Add Reply"
                     className="btn btn-light btn-block"
                   />
                 </form>

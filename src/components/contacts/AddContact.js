@@ -75,7 +75,7 @@ class AddContact extends Component {
                     label="Message"
                     name="message"
                     type="text"
-                    placeholder="///Enter a message"
+                    placeholder="Enter a message"
                     value={message}
                     onChange={this.onChange}
                     error={errors.message}
@@ -90,7 +90,7 @@ class AddContact extends Component {
                   />
                   <input
                     type="submit"
-                    value="Add Message---"
+                    value="Add Message"
                     className="btn btn-light btn-block"
                   />
                 </form>
